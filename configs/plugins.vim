@@ -5,6 +5,6 @@ Plug 'kien/ctrlp.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'tpope/vim-surround'
-Plug 'easymotion/vim-easymotion'
+Plug 'jiangmiao/auto-pairs'
 call plug#end()
 colorscheme gruvbox
