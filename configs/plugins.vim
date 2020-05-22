@@ -31,4 +31,4 @@ Plug 'ycm-core/YouCompleteMe'
 Plug 'jremmen/vim-ripgrep'
 
 call plug#end()
-colorscheme dracula
+colorscheme gruvbox
