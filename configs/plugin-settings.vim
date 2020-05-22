@@ -12,7 +12,7 @@ let g:NERDTreeIgnore=['\.rbc$', '\~$', '\.pyc$', '\.db$', '\.sqlite$', '__pycach
 let g:NERDTreeShowBookmarks=1
 "Theme 
 syntax enable
-set background=light
+set background=dark
 highlight Normal ctermbg=None
 let g:airline_theme='gruvbox'
 set termguicolors

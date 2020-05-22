@@ -9,6 +9,7 @@ Plug 'kien/ctrlp.vim'
 " Themes
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'indracula/vim', { 'name': 'dracula' }
 
 Plug 'tpope/vim-surround'
 
@@ -30,4 +31,4 @@ Plug 'ycm-core/YouCompleteMe'
 Plug 'jremmen/vim-ripgrep'
 
 call plug#end()
-colorscheme gruvbox
+colorscheme dracula
