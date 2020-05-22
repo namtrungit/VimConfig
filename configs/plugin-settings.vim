@@ -15,6 +15,8 @@ syntax enable
 set background=light
 highlight Normal ctermbg=None
 let g:airline_theme='gruvbox'
+let g:gruvbox_contrast_light='meidum'
+
 set termguicolors
 
 "FindFilePlugin
