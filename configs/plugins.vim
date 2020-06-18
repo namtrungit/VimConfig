@@ -30,5 +30,11 @@ Plug 'ycm-core/YouCompleteMe'
 " Search Word in Vim by RipGrep
 Plug 'jremmen/vim-ripgrep'
 
+" Git plugin
+Plug 'tpope/vim-fugitive'
+
+" Emmet(plugin generate html)
+Plug 'mattn/emmet-vim'
+
 call plug#end()
 colorscheme gruvbox
